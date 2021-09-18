@@ -18,9 +18,10 @@ For this project my aim was to refactor a website so that it could be more user 
 
 ## Screenshots
 
-starting screen shot ->
+Original:
 
-> final result
+Final result:
+> ![marketing-agency jpg](https://user-images.githubusercontent.com/87497969/133906411-bdaadbbc-8c7b-4ef6-b671-48c68037ce85.png)
 
 > pic of vs code
 
