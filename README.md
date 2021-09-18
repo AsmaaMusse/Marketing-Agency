@@ -26,6 +26,6 @@ Pictue of vs code:
 
 ## Github pages
 
-- Add the links to the Github pages here
+https://github.com/AsmaaMusse/Marketing-Agency
 - Add Deployed homework link
 
