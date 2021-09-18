@@ -11,7 +11,7 @@ For this project my aim was to refactor a website so that it could be more user 
 - Used semantic HTML elements where needed.
 - refactored the CSS blocks on styling sheet where possible.
 
-### Technologies used?
+### Technologies used:
 
 - HTML
 - CSS
