@@ -19,7 +19,7 @@ For this project my aim was to refactor a website so that it could be more user 
 ## Screenshots
 
 Final result:
-> ![marketing-agency jpg](https://user-images.githubusercontent.com/87497969/133906411-bdaadbbc-8c7b-4ef6-b671-48c68037ce85.png)
+> ![marketing-agency screenshot jpg](https://user-images.githubusercontent.com/87497969/133907582-0d22388b-19c1-4685-9fa7-00dde3e86d2d.jpg)
 
 > pic of vs code
 
