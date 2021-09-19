@@ -20,9 +20,14 @@ For this project my aim was to refactor a website so that it could be more user 
 
 > final result
 
+![marketing-agency screenshot jpg](./assets/images/marketing-agency-screenshot.jpg)
+
 > pic of vs code
+
+![code](./assets/images/code.png)
 
 ## Github pages
 
-- Add the links to the Github pages here
+https://github.com/AsmaaMusse/Marketing-Agency
+
 - Add Deployed homework link
