@@ -4,6 +4,8 @@
 
 For this project my aim was to refactor a website so that it could be more user friendly and is accessible to users equally.
 
+https://asmaamusse.github.io/Marketing-Agency/
+
 ### What did i do?
 
 - Checked all links are responsive.
@@ -30,5 +32,4 @@ For this project my aim was to refactor a website so that it could be more user 
 
 https://github.com/AsmaaMusse/Marketing-Agency
 
-https://asmaamusse.github.io/Marketing-Agency/
 
