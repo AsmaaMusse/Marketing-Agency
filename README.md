@@ -5,7 +5,7 @@ Table of contents:
 - [Deployed page](#deployed-page)
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
-- [Contributors](#contributors)
+- [Contribute](#contribute)
 
 ## Overview
 
