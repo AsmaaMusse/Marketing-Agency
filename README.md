@@ -1,12 +1,17 @@
 # Code Refractor ![MIT](https://img.shields.io/static/v1?label=MIT&message=License&color=orange)
 
+Table of contents:
+- [Overview](#overview)
+- [Deployed page](#deployed-page)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- [Contributors](#contributors)
+
 ## Overview
 
 For this project my aim was to refactor a website so that it could be more user friendly and is accessible to users equally.
 
-## Github pages
-
-https://github.com/AsmaaMusse/Marketing-Agency
+## Deployed page
 
 https://asmaamusse.github.io/Marketing-Agency/
 
